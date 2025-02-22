@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Creation of badges</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </head>
+        <body style="text-align: center;">
+            <div class="Jumbotron">
+                <div class="container bg-warning">
+                    <h1>Codingal
+                    <span class="badge badge-primary">NEW</span></h1>
+            </div>
+        </div>
+        </body>
+</html>
+
+
