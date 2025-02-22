@@ -10,6 +10,15 @@
                     <span class="badge badge-primary">NEW</span></h1>
             </div>
         </div>
+        <div class="container">
+            <h2>A Progress Bar</h2>
+            <p>A progress bar is a visual indicator that shows the progress of a task. It can be used to show the completion of a
+            download, file transfer, installation, or other long-running computer operation.</p>
+            <div class="progress">
+                <div class="progress-bar" style="width:70%">70%</div>
+        
+                </div>
+                </div>
         </body>
 </html>
 
